@@ -7,6 +7,6 @@
 
 4.In this project, the JavaScript is used to perform action and API development.
 
-5.In this project, we have type text or any URL/link in the input field and click "Generate QR Code" button.
+5.In this project, we have type text or any URL/link in the input field and click "GENERATE QR CODE" button.
 
-6.After clicking "Generate QR Code" button the QR Code is generate to scan through your mobile.
+6.After clicking "GENERATE QR CODE" button the QR Code is generate to scan through your mobile.
